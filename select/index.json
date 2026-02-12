@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "REGAIN AGAIN LLLLOVE",
+  "base_artist": "いきづらい部！",
+  "createdAt": "2026-02-12T12:07:35.307868Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "REGAIN AGAIN LLLLOVE",
+      "artist": "いきづらい部!",
+      "has_synced": false,
+      "path": "select/pl_01_REGAIN_AGAIN_LLLLOVE_いきづらい部!.txt"
+    }
+  ]
+}
